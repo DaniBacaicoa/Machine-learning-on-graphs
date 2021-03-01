@@ -4,3 +4,5 @@ pandas
 matplotlib
 jupyter
 snap-stanford
+#networkx
+#itertools
