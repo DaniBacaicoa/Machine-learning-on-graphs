@@ -1,2 +1,2 @@
-# Machine-learning-on-graphs
-'Machine learning on graphs' course for the Machine learning group seminar 2021
+# Machine-learning-with-graphs
+'Machine learning with graphs' course for the Machine Learning Group (MLG) seminar 2021
